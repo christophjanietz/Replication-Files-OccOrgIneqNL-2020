@@ -162,7 +162,6 @@
 
 	gen select = .
 
-	// [not the most elegant solution, but it does the trick]
 	foreach nr of num 1/8 {
 		bys rinpersoons rinpersoon SURVEY_Y: ///
 			replace select = 1 if nr_y==`nr' & EbbAflAantWerk!=0 & ISCO2008!="" & ///
