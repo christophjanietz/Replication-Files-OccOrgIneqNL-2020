@@ -1,6 +1,7 @@
 # Replication Files
 
-Christoph Janietz 2023
+Code for "Occupations, organizations, and the structure of wage inequality in the Netherlands."
+Christoph Janietz (May 2023)
 
 In this repository you can find the code that was used to perform the analyses in the article Janietz, Christoph and Thijs Bol (2020). Occupations, organizations, and the structure of wage inequality in the Netherlands. Research in Social Stratification and Mobility 70. https://doi.org/10.1016/j.rssm.2019.100468.
 
